@@ -11,7 +11,7 @@ body{
     
 }
 .container{
-    background-image: url("C:/Users/DevashishNegi/Desktop/bhimtal.jpg");
+    background-image: url("./bhimtal.jpg");
     background-size: auto 100%;
 }
 .box{
@@ -82,7 +82,7 @@ a{
 }
 .seg2{
     width: 100%;
-    background-image: url("C:/Users/DevashishNegi/Desktop/segg2.jpg");
+    background-image: url("./segg2.jpg");
     background-size: auto 100%; 
 
 }
@@ -115,7 +115,7 @@ progress{
 
 .seg3{
 width: 100%;
-    background-image: url("C:/Users/DevashishNegi/Desktop/newww.jpg");
+    background-image: url("./newww.jpg");
     background-size: auto 100%; 
     margin-top: 1%;
     font-size: 25px;
